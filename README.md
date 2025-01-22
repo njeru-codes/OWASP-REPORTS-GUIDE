@@ -73,7 +73,7 @@ Always ensure that your descriptions provide enough information for the engineer
   research links here
 </details>
 
-## REFERNCES 
+## REFERENCES 
 [OWASP GUIDE](https://owasp.org/www-project-web-security-testing-guide/stable/5-Reporting/README)
 
 
